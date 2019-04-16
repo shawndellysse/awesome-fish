@@ -55,6 +55,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [jethrokuan/**fzf**](https://github.com/jethrokuan/fzf) - Improved key bindings for [junegunn/fzf](https://github.com/junegunn/fzf)
 - [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols
 - [oh-my-fish/**plugin-bang-bang**](https://github.com/oh-my-fish/plugin-bang-bang) - bash style history substitution
+- [shawndellysse/**bangbang.fish**](https://github.com/shawndellysse/bangbang.fish) - bash style history substitution without OMF dependency
 
 ### Node.js
 
