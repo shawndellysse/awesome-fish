@@ -56,6 +56,11 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [laughedelic/**pisces**](https://github.com/laughedelic/pisces) - Autoclose parentheses, braces, quotes and other paired symbols
 - [oh-my-fish/**plugin-bang-bang**](https://github.com/oh-my-fish/plugin-bang-bang) - bash style history substitution
 
+
+### Version Managers
+
+- [shawndellysse/**asdf.fish**](https://github.com/shawndellysse/asdf.fish) - Fully managed [asdf](https://asdf-vm.com) installation and configuration
+
 ### Node.js
 
 - [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - Enhanced [nvm](https://github.com/creationix/nvm) wrapper optimized for speed
